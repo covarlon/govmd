@@ -1,0 +1,11 @@
+savecount=8
+contourarea=1200.0
+
+[URL]
+  [URL.dev1]
+  devId = "21010000002000000182"
+  rtsp = "rtsp://admin:xrd123456@192.168.0.182/h264/ch1/main/av_stream"
+  [URL.dev2]
+  devId = "21010000002000000154"
+  rtsp = "rtsp://admin:xrd123456@192.168.0.154/h264/ch1/main/av_stream"
+
